@@ -1,0 +1,48 @@
+body {
+	margin: 0px
+}
+
+.head {
+	background: #666666;
+	text-align: center;
+	height: 50px;
+	line-height: 50px;
+	font-weight: bold
+}
+
+.content {
+	margin: 0px;
+	height: auto
+}
+
+.cleft {
+	width: 10%;
+	float: left
+}
+
+.cright {
+	width: 90%;
+	height: auto;
+	float: left
+}
+
+.rc1 {
+	height: 50px;
+	line-height: 50px;
+	padding-left: 20px
+}
+
+.rc2 {
+	height: 50px;
+	line-height: 50px
+}
+
+.rc3 {
+	
+}
+
+.rc4 {
+	height: 50px;
+	text-align: right;
+	line-height: 50px
+}

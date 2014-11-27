@@ -1,0 +1,30 @@
+.first {
+	margin: 0px
+}
+
+.fleft {
+	float: left;
+	height: 50px;
+	width: 15%;
+}
+
+.fright {
+	float: left;
+	width: 85%;
+}
+
+.username {
+	height: 50px;
+	line-height: 50px
+}
+
+.midline {
+	height: 2px;
+	background: green;
+	clear: both
+}
+
+.time {
+	float: right;
+	color: green
+}
